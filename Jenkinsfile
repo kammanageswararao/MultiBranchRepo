@@ -9,7 +9,7 @@ step
 echo "Build the application"
 }
 }
-
+}
  stage('Test')
 {
 step
